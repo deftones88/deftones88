@@ -8,7 +8,7 @@
  ### ⚪  &nbsp; currently  &nbsp; ATTENDING ...
  42 SEOUL 🇰🇷
 
-![42stats](https://badge42.herokuapp.com/api/stats/ji-kim)
+![ji-kim's 42 stats](https://badge42.vercel.app/api/v2/cl1tzt6ir004409lexcgnnbrw/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
 
  
  
