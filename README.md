@@ -1,7 +1,6 @@
-
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=4DB6FF&height=120&section=header&text=JI%20HAE%20KIM&fontSize=60&fontAlignY=65&animation=twinkling&desc=an%20aspiring%20student%20developer&descAlignY=90&descSize=15&descAlign=65)
+ 
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=4DB6FF&height=88&section=header&text=JI%20HAE%20KIM&fontSize=50&fontAlignY=65&animation=twinkling&desc=an%20aspiring%20student%20developer&descAlignY=90&descSize=15&descAlign=65)
  
 <hr> 
 
